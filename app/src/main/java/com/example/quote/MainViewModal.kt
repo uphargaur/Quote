@@ -10,7 +10,7 @@ import android.util.Log
 class MainViewModal(val context: Context) :ViewModel() {
 
     var quoteList: Array <Quote> = emptyArray()
-    var index =5
+    var index =0
     init {
         quoteList =loadQuoteFromAssets()
     }
