@@ -1,8 +1,7 @@
 <p al![quote](https://user-images.githubusercontent.com/98213905/228886091-a24ee2e2-c6c3-428b-8e20-83cca63ca5a2.png)
 ign="center">
     <a>
-    <img src="images/quote![quote](https://user-images.githubusercontent.com/98213905/228887365-49fb5636-3796-4cf3-acf2-214bbfba3cce.png)
-.png" width="200" height="200"/>
+    <img src="quote.png" width="100" height="200"/>
     </a>
     <h1 align="center">Quotes</h1>
 </p>
